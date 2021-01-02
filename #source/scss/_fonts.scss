@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic);
+@font-face {
+    font-family: "Helvetica Neue";
+    src: local("Helvetica Neue Roman"), local("Helvetica-Neue-Roman"),
+        url("../fonts/HelveticaNeueCyr-Roman.woff2") format("woff2"),
+        url("../fonts/HelveticaNeueCyr-Roman.woff") format("woff"),
+        url("../fonts/HelveticaNeueCyr-Roman.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Helvetica Neue Bold";
+    src: url("../fonts/HelveticaNeueCyr-Bold.eot");
+    src: url("../fonts/HelveticaNeueCyr-Bold.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/HelveticaNeueCyr-Bold.woff") format("woff"),
+        url("../fonts/HelveticaNeueCyr-Bold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Georgia Bold";
+    src: url("../fonts/Georgia-Bold.eot");
+    src: url("../fonts/Georgia-Bold.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/Georgia-Bold.woff") format("woff"), 
+        url("../fonts/Georgia-Bold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Helvetica Neue Light";
+    src: url("../fonts/HelveticaNeueCyr-Light.eot");
+    src: url("../fonts/HelveticaNeueCyr-Light.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/HelveticaNeueCyr-Light.woff") format("woff"), 
+        url("../fonts/HelveticaNeueCyr-Light.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
